@@ -1,7 +1,7 @@
 # Proyecto-ML
 Proyecto de Machine Learning hecho en el bootcamp de The Bridge-Sevilla
 
-Competición de Machine Learning de Kaggle en el cual el objetivo es predecir de la manera más precisa el tipo de contaminante. Los datos utilizados son todos encontrados en la página de Kaggle, donde los puedes descargar y luego encontrar el mejor modelo.
+Competición de Machine Learning de Kaggle en el cual el objetivo es predecir de la manera más precisa el flujo de calor crítico. Los datos utilizados son todos encontrados en la página de Kaggle, donde los puedes descargar y luego encontrar el mejor modelo.
 
 # Producción de resultado
 Todos los datos y archivos utilizados para el desarollo de los modelos pueden ser encontrados en el repositorio de este GitHub.
