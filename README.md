@@ -14,5 +14,7 @@ Por ultimo, entrenamos varios modelos hasta que tengamos el mejor y más preciso
 
 # Estructura (GitHub)
 Data - Contiene todos los archivos ".csv" necesarios para el desarollo del problema.
+
 Notebook - Contiene los códigos separados por etapas.
+
 Submissions - Contiene los archivos ".csv" que fueran enviados a Kaggle.
