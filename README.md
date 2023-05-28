@@ -12,7 +12,7 @@ Al limpiar todo el DataFrame hacemos un EDA para analizar gráficamente todas la
 
 Por ultimo, entrenamos varios modelos hasta que tengamos el mejor y más preciso, y luego lo subimos en Kaggle para que tengamos una pontuación final.
 
-# Estructura (GitHub)
+# Estructura (GitHub) - src
 Data - Contiene todos los archivos ".csv" necesarios para el desarollo del problema.
 
 Notebook - Contiene los códigos separados por etapas.
